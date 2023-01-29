@@ -1,4 +1,4 @@
-package cinema.logic;
+package cinema.util;
 
 import cinema.model.Room;
 import cinema.model.Seat;
